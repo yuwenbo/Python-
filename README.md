@@ -6,6 +6,6 @@
 
 2，安装后配置环境变量 key:Path；value:D:\ProgramFiles\python-3.7.3-embed-amd64
 
-![Image text](img/20200102173816.png)
+![Image](img/20200102173816.png)
 
 
